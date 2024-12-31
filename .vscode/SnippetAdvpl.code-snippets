@@ -1,0 +1,12 @@
+{
+	"Hello World User Function": {
+	  "prefix": "ad",
+	  "body": [
+		"User Function ${1:HelloWorld}()",
+		"    Alert(\"Hello World!\")",
+		"Return"
+	  ],
+	  "description": "Cria uma User Function com Alert('Hello World') em ADVPL"
+	}
+  }
+  
